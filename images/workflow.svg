@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<rect width="600" height="300" fill="#fff"/>
+<g transform="translate(20,20)">
+  <rect width="560" height="260" rx="12" fill="#f1f8fb" stroke="#c9e7f4"/>
+  <text x="30" y="50" font-size="20" fill="#134a63">Estimating Workflow</text>
+  <text x="30" y="90" font-size="13" fill="#16546a">1) Drawings  2) Takeoff  3) Pricing  4) Review  5) Bid</text>
+</g>
+</svg>
